@@ -11,7 +11,7 @@ API_ID = int(getenv("API_ID", 22967163))
 API_HASH = getenv("API_HASH", "454830b6b53539b54e69bda388c33dde")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", "7339683479:AAGzZLdafpxsS46mkCSaMfDeG1p6uNha6IY")
+BOT_TOKEN = getenv("BOT_TOKEN", "7339683479:AAGV89wgGgWcnDpZSHCZHv80Midgy7Sf3FQ")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://mongoguess:guessmongo@cluster0.zcwklzz.mongodb.net/?retryWrites=true&w=majority")
