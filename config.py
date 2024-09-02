@@ -22,10 +22,10 @@ SONG_DOWNLOAD_DURATION = int(
     getenv("SONG_DOWNLOAD_DURATION_LIMIT", "5400")
 )
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", -1002163836196))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002235238998))
 
 # Get this value from @FallenxBot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 6513314526))
+OWNER_ID = int(getenv("OWNER_ID", 7543638265))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
