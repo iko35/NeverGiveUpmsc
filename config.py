@@ -91,21 +91,21 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https:telegra.phDownloadsphoto-2024-09-14-13-48-59jpg-09-14"
+    "START_IMG_URL", "https://envs.sh/wc1.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https:telegra.phDownloadsphoto-2024-09-14-13-48-59jpg-09-14"
+    "PING_IMG_URL", "https://envs.sh/wc1.jpg"
 )
-PLAYLIST_IMG_URL = "https:telegra.phDownloadsphoto-2024-09-14-13-48-59jpg-09-14"
-STATS_IMG_URL = "https:telegra.phDownloadsphoto-2024-09-14-13-48-59jpg-09-14"
-TELEGRAM_AUDIO_URL = "https:telegra.phDownloadsphoto-2024-09-14-13-48-59jpg-09-14"
-TELEGRAM_VIDEO_URL = "https:telegra.phDownloadsphoto-2024-09-14-13-48-59jpg-09-14"
-STREAM_IMG_URL = "https:telegra.phDownloadsphoto-2024-09-14-13-48-59jpg-09-14"
-SOUNCLOUD_IMG_URL = "https:telegra.phDownloadsphoto-2024-09-14-13-48-59jpg-09-14"
-YOUTUBE_IMG_URL = "https:telegra.phDownloadsphoto-2024-09-14-13-48-59jpg-09-14"
-SPOTIFY_ARTIST_IMG_URL = "https:telegra.phDownloadsphoto-2024-09-14-13-48-59jpg-09-14"
-SPOTIFY_ALBUM_IMG_URL = "https:telegra.phDownloadsphoto-2024-09-14-13-48-59jpg-09-14"
-SPOTIFY_PLAYLIST_IMG_URL = "https:telegra.phDownloadsphoto-2024-09-14-13-48-59jpg-09-14"
+PLAYLIST_IMG_URL = "https://envs.sh/wc1.jpg"
+STATS_IMG_URL = "https://envs.sh/wc1.jpg"
+TELEGRAM_AUDIO_URL = "https://envs.sh/wc1.jpg"
+TELEGRAM_VIDEO_URL = "https://envs.sh/wc1.jpg"
+STREAM_IMG_URL = "https://envs.sh/wc1.jpg"
+SOUNCLOUD_IMG_URL = "https://envs.sh/wc1.jpg"
+YOUTUBE_IMG_URL = "https://envs.sh/wc1.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://envs.sh/wc1.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://envs.sh/wc1.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://envs.sh/wc1.jpg"
 
 
 def time_to_seconds(time):
